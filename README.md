@@ -84,17 +84,28 @@ f) link deployed KaseiCoin address on Remix IDE
 ![Screen shot ](./Resource/images/Link_kaseiCoin_in_Remix.jpg)
 
 g) Buy  more KaseiCoins 
-![Screen shot ](./Resource/images/Buy_KasaiCoin.jpg)
+![Screen shot ](./Resource/images/007c_buy_more_KaseiCoin.jpg)
 
 
-h) Buy confirmation in Metamask 
-![Screen shot ](./Resource/images/Buy_KasaiCoin_Metamask_popUp2.jpg)
+h) Buy more confirmation in Metamask 
+![Screen shot ](./Resource/images/008c_Confirm_more_buy_Metamask.jpg)
 
-i) More bug of KaseiCoins 
+ia) completion of more buy of KaseiCoins 
+![Screen shot ](./Resource/images/009_more_buy_completed.jpg)
+
+
+ib) Total funds raised from crowdsale 
+![Screen shot ](./Resource/images/010_fundsRaised_after_more_buy.jpg)
+
+ic) Number of KaseiCoins minted 
+![Screen shot ](./Resource/images/011_total_TokensMinted.jpg)
+
+
+ja) Buy more Metamask 
 ![Screen shot ](./Resource/images/Buy_KasaiCoin_003.jpg)
 
 
-j) Confirmation of buy in Metamask 
+jb) Confirmation of buy in Metamask 
 ![Screen shot ](./Resource/images/Buy_KasaiCoin_Metamask_popUp_003.jpg)
 
 k) Confirmation  in Metamask and Ganash 
